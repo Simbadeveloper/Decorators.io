@@ -140,7 +140,7 @@ Hello World !
 
 # Resources
 
-[Decorators](https://python.org/decorator)<br>
+[Decorators](https://www.python.org/dev/peps/pep-3129/)<br>
 [Pylint](https://python.org/pylint)
 #
 #
