@@ -8,8 +8,7 @@ want to perfrm a particular action before and after executing each each of the f
 or pass in an extra parameter or cnvert to another format.
 
 * Here is a good example of how to implement a decorator....*<br>
-![img](decorators/routes.PNG)<br>
-![img](decorators/img.PNG)<br>
+
 
 <hr>
 
